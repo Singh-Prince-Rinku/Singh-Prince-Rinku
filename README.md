@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Singh Prince Rinku</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0177efce0facdd611719dbe1e94af2a1ddbd2ac0e78304f97608a6a3b25c765a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-prince-rinku&label=Profile%20views&color=0e75b6&style=flat" alt="singh-prince-rinku" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singh-prince-rinku" alt="singh-prince-rinku" /></a> </p>
 
