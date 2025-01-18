@@ -61,5 +61,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh-prince-rinku&show_icons=true&locale=en" alt="singh-prince-rinku" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singh-prince-rinku&" alt="singh-prince-rinku" /></p>
+## 🌟 GitHub Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Singh-Prince-Rinku&theme=dark&hide_border=false)]
+
 
