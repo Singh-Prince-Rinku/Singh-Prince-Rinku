@@ -6,7 +6,11 @@
  I'm a passionate B.Tech Computer Science and Engineering student at Amity University. I am excited to explore about the world of technology and its potential to transform lives....
 
 
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=singh-prince-rinku&theme=github" alt="singh-prince-rinku" />
+  </a>
+</p>
 
 
 
@@ -120,11 +124,10 @@ Install my-project using -git clone
   --git clone < Repo name >
 ```
     
-## Contributing
+## Stats
 
-Contributions are always welcome!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singh-prince-rinku&show_icons=true&locale=en&layout=compact" alt="singh-prince-rinku" /></p>
 
-See `contributing.md` for ways to get started.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh-prince-rinku&show_icons=true&locale=en" alt="singh-prince-rinku" /></p>
 
-Please adhere to this project's `code of conduct`.
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singh-prince-rinku&" alt="singh-prince-rinku" /></p>
