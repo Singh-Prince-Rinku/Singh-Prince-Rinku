@@ -1,3 +1,6 @@
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN4aWp5c3FwNHRoYngyOW0zb2V3djdidzc5bnF6OHJvY2NvZGtvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yBvndlpq8aCvS/giphy.gif" style="height: 250px; width: 900px;">
+
 # 🐳 Hi, I'm  Prince 
 ## 🚀 About Me 
 
