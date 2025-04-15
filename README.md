@@ -36,7 +36,7 @@
 
    <div align="center"
    <a href="https://wakatime.com/@91_prince_">
-    <img src="https://wakatime.com/share/@91_prince_/93ecd9b2-29df-4f28-ac9c-0beec1a4aff6.svg" width="300" height="300" alt="Wakatime Stats"/>
+    <img src="https://wakatime.com/share/@91_prince_/c8d5b3b7-66ab-451c-a9d7-46257e816666.svg" width="300" height="300" alt="Wakatime Stats"/>
   </a>
   <div/>
 
